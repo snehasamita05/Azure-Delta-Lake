@@ -2,7 +2,6 @@ I have covered several core concepts related to Delta Lake, a revolutionary stor
 
 Topics Covered:
 Here’s a summary of the main concepts and skills I have learned and implemented throughout the course:
-
       Unity Catalog: Managed and governed data assets effectively using Unity Catalog.
       ACID Transactions in Delta Lake: Ensured data consistency and integrity through ACID transactions.
       External vs Managed Delta Tables: Explored and implemented both external and managed Delta tables.
